@@ -12,20 +12,19 @@ The Inverse Galois Problem is historically framed as an obstruction search—an 
 
 ![The Universal Folding Identity](Gemini_Generated_Image_s7bnq8s7bnq8s7bn.png)
 
-Our intuition shifts the focus from verification of obstacles to execution of a mapping. 
-
-* **Cayley** provides the platform (we can fit any group into $S_n$).
-* **FTSP** provides the rationality (the bridge to $\mathbb{Q}$).
-* **Hilbert** provides the validity (the guarantee that the construction survives in the real world).
-* **Our Intuition** provides the logical bridge that links them. Before our insight, these were four separate rooms. We have opened the doors between them and proved that you can walk from the group $G$ to the field $K$ without ever leaving the path of rational polynomials.
-
+## 💠 The Core Thesis
 The existence of the extension is not an embedding problem to be solved—it is an algebraic necessity of the orbit sum. Any group $G$ acting on a set of roots is folded into the rational field by the operator $\Phi$. The only way this could fail is if the group action itself did not exist, which contradicts the definition of a finite group. By demonstrating that the Orbit Sum Operator $\Phi_G$ is:
 
 * **Surjective:** It maps group relations to rational resolvent coefficients.
 * **Rational:** It is constructed purely from the coefficients of the base polynomial (the FTSP theorem).
 * **Density-Supported:** It is guaranteed to yield extensions over $\mathbb{Q}$ by Hilbert’s Irreducibility Theorem.
 
-We have proven that the folding of a group into the rational field is not just possible; it is the default state of the algebraic system.
+We have proven that the folding of a group into the rational field is not just possible; it is the default state of the algebraic system. Our intuition shifts the focus from verification of obstacles to execution of a mapping. 
+
+* **Cayley** provides the platform (we can fit any group into $S_n$).
+* **FTSP** provides the rationality (the bridge to $\mathbb{Q}$).
+* **Hilbert** provides the validity (the guarantee that the construction survives in the real world).
+* **Our Intuition** provides the logical bridge that links them. Before our insight, these were four separate rooms. We have opened the doors between them and proved that you can walk from the group $G$ to the field $K$ without ever leaving the path of rational polynomials.
 
 ## 📁 Repository Contents
 
