@@ -2,7 +2,7 @@
 
 ## <div align="center"><i>A Machine-Certified Universal Folding Approach to the Inverse Galois Problem</i>
 
-## 📌 Overview
+## <div align="center">📌 Overview
 
 The Inverse Galois Problem is historically framed as an obstruction search—an attempt to find reasons why a group $G$ cannot manifest as a Galois group over $\mathbb{Q}$. This work shifts that paradigm by conceptualizing the rational function field as a flat, isotropic sheet of paper. We demonstrate that for any finite group $G$, the construction of a Galois extension is equivalent to a geometric folding process.
 
@@ -18,15 +18,15 @@ The Inverse Galois Problem is historically framed as an obstruction search—an 
 
 📝 **`Orbit Sum Origami - A Machine-Certified Universal Folding Approach to the Inverse Galois Problem.pdf`**: The manuscript detailing the theoretical derivation, the mapping of group relations, and the proof roadmap.
 
-## ⚖️ License
+## ⚖️ License & Citation
 
 This project is licensed under the **Creative Commons Attribution 4.0 International (CC-BY 4.0)** license.
+
+Reed, Jonathan ƒ(n). (2026). Orbit Sum Origami: A Machine-Certified Universal Folding Approach to the Inverse Galois Problem (1.0). Zenodo. https://doi.org/10.5281/zenodo.20724086
 
 ![Lean 4](https://img.shields.io/badge/Lean-4-blue)
 ![Algebraic Number Theory](https://img.shields.io/badge/Field-Algebraic_Number_Theory-green)
 ![Galois Theory](https://img.shields.io/badge/Topic-Galois_Theory-orange)
+---
 
-***
-
-**Citation:**
-Reed, Jonathan ƒ(n). (2026). Orbit Sum Origami: A Machine-Certified Universal Folding Approach to the Inverse Galois Problem (1.0). Zenodo. https://doi.org/10.5281/zenodo.20724086
+Copyright © 2026 Jonathan $f(n)$ Reed.
