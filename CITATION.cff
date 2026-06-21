@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please cite this research as follows."
+authors:
+  - name: "Jonathan ƒ(n)"
+title: "Orbit Sum Origami: A Machine-Certified Universal Folding Approach to the Inverse Galois Problem"
+version: 1.0.0
+doi: 10.5281/zenodo.20724086
+date-released: 2026-06-17
