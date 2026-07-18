@@ -1,8 +1,8 @@
 import Lake
 open Lake DSL
 
-package «orbit-sum-origami» where
+package «OrbitSumOrigami» where
 
 @[default_target]
-lean_lib «orbit-sum-origami» where
+lean_lib «OrbitSumOrigami» where
   srcDir := "."
